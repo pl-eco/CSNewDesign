@@ -1,0 +1,10 @@
+#the name of the class that contains main method
+mainClass=InnerClass
+#mainClass=Test
+#mainClass=FileCopy1
+
+
+#the name and the paremeter of the main method
+entryName=main#java.lang.String[]|
+
+Ncount=3
